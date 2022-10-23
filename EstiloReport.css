@@ -1,0 +1,139 @@
+body {
+	font-size: 12px;
+	font-family: Arial;
+	background-color: #ffffff;
+	}
+
+table {
+	font-size: 12px;
+	font-family: Arial;
+	background-color: #ffffff;
+	}
+
+.estTexto10 {
+	font-size: 10px;
+	font-family: Arial;
+	}
+	
+	.estlabel10 {
+	font-size: 10px;
+	font-family: Arial;
+	font-weight: bold;
+		}
+	
+.estTexto10N {
+	font-size: 10px;
+	font-family: Arial;
+	font-weight: bold;
+	}
+
+.estTexto12 {
+	font-size: 12px;
+	font-family: Arial;
+	}
+	
+.estTexto12N {
+	font-size: 12px;
+	font-family: Arial;
+	font-weight: bold;
+	}
+
+.estTexto14 {
+	font-size: 14px;
+	font-family: Arial;
+	}
+	
+.estTexto14N {
+	font-size: 14px;
+	font-family: Arial;
+	font-weight: bold;
+	}
+
+.estTexto10R {
+	font-size: 10px;
+	font-family: Arial;
+	color: #ff0000;
+	}
+	
+.estTexto11N {
+	font-size: 11px;
+	font-family: Arial;
+	font-weight: bold;
+	}
+	
+.estTexto10NR {
+	font-size: 10px;
+	font-family: Arial;
+	font-weight: bold;
+	color: #ff0000;
+	}
+
+.estTexto12R {
+	font-size: 12px;
+	font-family: Arial;
+	color: #ff0000;
+	}
+	
+.estTexto12NR {
+	font-size: 12px;
+	font-family: Arial;
+	font-weight: bold;
+	color: #ff0000;
+	}
+	
+.estTexto14R {
+	font-size: 14px;
+	font-family: Arial;
+	color: #ff0000;
+	}
+	
+.estTexto14NR {
+	font-size: 14px;
+	font-family: Arial;
+	font-weight: bold;
+	color: #ff0000;
+	}
+
+/* Bordas */
+
+.estGrid {
+	border-right: #000000 thin solid;
+	border-top: #000000 thin solid;
+	border-left: #000000 thin solid;
+	border-bottom: #000000 thin solid;
+	}
+	
+.estHeaderGrid {
+	font-weight: bold;
+	font-size: 11px;
+	font-family: Arial;
+	background-color: #aca899;
+	}
+	
+.estItemGrid {
+	font-size: 11px;
+	font-family: Arial;
+	background-color: #ffffff;
+	}
+	
+.estBordaInferior {
+	border-bottom: #000000 thin solid;
+	}
+	
+.estBordaSerrilhadaDireita {
+	border-right: #000000 thin solid;
+	}
+			
+.estBordaSerrilhadaDireitaBordaInferior {
+	border-bottom: #000000 thin solid;
+	border-right: #000000 thin solid;
+	}
+	
+.estBordaSerrilhadaDireira {
+	 border-right: #000000 1px dotted;
+}
+
+.estBordaSerrilhadaDireiraInferior {
+	border-right: #000000 1px dotted;
+	border-bottom: #000000 1px solid;
+}

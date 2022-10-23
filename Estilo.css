@@ -1,0 +1,149 @@
+/* Geral */
+
+body {
+  font-family: Verdana;
+  font-size: 11px;
+	background-color: #ffffff;
+	}
+
+table {
+  font-family: Verdana;
+  font-size: 11px;
+	}
+
+A:link	{	
+	text-decoration:	none;
+	color:	#3333cc;
+	}	
+		
+A:visited	{	
+	text-decoration:	none;
+	color:	#333399;
+	}	
+	
+	.estPagerGrid
+{
+	FONT-FAMILY: Verdana, Arial;
+	FONT-SIZE: 10px;
+	FONT-WEIGHT: bold;
+	COLOR: #C1C1C1;
+}
+
+		
+A:active	{	
+	text-decoration:	none;
+	color:	#333399;
+	}	
+		
+A:hover	{	
+	text-decoration:	underline;
+	color:	#3333cc;
+	}
+	
+/* Formulário */
+
+.estlabel {
+	font-size: 10px;
+	font-family: Verdana;
+	}
+
+.estTextbox {
+	font-family: Verdana;
+	font-size: 9px;
+	background-color: #ffffcc;
+	}
+	
+.estTextboxRO {
+	font-size: 9px;
+	font-family: Verdana;
+	}
+
+
+.estGrid{
+ PADDING-LEFT: 5px;
+}
+.estLabelTitulo {
+	font-weight: bold;
+	font-size: 20px;
+	color: #333399;
+	}
+
+.tblTitulo {
+	border-right: #9999ff thin solid;
+	border-top: #9999ff thin solid;
+	border-left: #9999ff thin solid;
+	border-bottom: #9999ff thin solid;
+	font-family: Verdana;
+	background-color: #ccccff;
+	height: 50px;
+	vertical-align: middle;
+	}
+
+.tblForm {
+	font-family: Verdana;
+	font-weight: bold;
+	font-size: 20px;
+	border-right: #9999ff thin solid;
+	border-top: #9999ff thin solid;
+	border-left: #9999ff thin solid;
+	border-bottom: #9999ff thin solid;
+	color: #333399;
+	background-color: #ccccff;
+	}
+
+.tblBotao {
+	}
+
+.estBotao {
+	width: 90px;
+	height: 25px;
+	font-family: Verdana;
+	font-size: 11px;
+	}
+		
+.estBotao20px {
+	width: 90px;
+	height: 20px;
+	font-family: Verdana;
+	font-size: 9px;
+	}
+
+/* Data Grid */
+.estHeaderGrid {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 14px;
+	color: #003399;
+	background-color: #ff9966;
+	}
+
+.estItemGrid {
+	font-size: 14px;
+	color: #003399;
+	font-family: Arial;
+	background-color: #ffffcc;
+}
+	
+.estAlternateGrid {
+	font-family: Arial;
+	font-size: 14px;
+	color: #003399;
+	background-color: #ffffff;
+	}
+	
+/* Detalhe */
+
+.estTituloDetalhe {
+	font-weight: bold;
+	font-size: 12px;
+	color: #ff0000;
+	font-family: Arial;
+	}
+	
+.base {
+position: absolute; /* deixando o elemento com uma posição absoluta ao corpo da página */
+bottom: 0; /* definido 0 pra base do elemento, fazendo com que ele fique colado */
+width: 100%; /* definindo largura do elemento */
+height: 15px; /* definindo altura do elemento */
+background-color: #006699;  /*#99ccff; definindo cor de background */
+}
